@@ -2,7 +2,7 @@
     <img src="https://github.com/coochill/Recurs-IVE-It/blob/main/ecurs-%20t!.png" width="300">
 </p>
 
-<h1 align="center">Recurs-IVE It!: Recursion Algorithm Simulator</h1>
+<h1 align="center">Recurs-IVE It!: Recursive Algorithm Simulator</h1>
 <h3 align="center"> IT ### Web Systems and Technologies</h3>
 <h5 align="center"> 📅 Final Project - Batangas State University - Alangilan, 3rd Year, 1st Semester 2024 </h5>
 
