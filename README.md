@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Recurs-IVE It!: Recursive Algorithm Simulator</h1>
-<h3 align="center"> IT ### Web Systems and Technologies</h3>
+<h3 align="center"> IT 314 Web Systems and Technologies</h3>
 <h5 align="center"> 📅 Final Project - Batangas State University - Alangilan, 3rd Year, 1st Semester 2024 </h5>
 
 <h5 align="center"> 👩‍💻 Members </h5>
