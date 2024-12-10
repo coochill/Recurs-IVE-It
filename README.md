@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://github.com/coochill/Recurs-IVE-It/blob/main/recursive.png" width="300">
+    <img src="https://github.com/coochill/Recurs-IVE-It/blob/main/logo.png" width="300">
 </p>
 
 <h1 align="center">Recurs-IVE It!: Recursive Algorithm Simulator</h1>
