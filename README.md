@@ -18,16 +18,28 @@
 Recurs-IVE It is a web-based Recursive Algorithm Simulator that enables users to input variable values and visualize the process and behavior of recursive algorithms in real time. The application will feature interactive visualizations, support for multiple types of recursive algorithms, and secure handling of user-generated data. 
 
 # II. System Architecture
-Recurs-IVE It is a web-based Recursive Algorithm Simulator that enables users to input variable values and visualize the process and behavior of recursive algorithms in real time. The application will feature interactive visualizations, support for multiple types of recursive algorithms, and secure handling of user-generated data. 
+nyanya
 
 # III. Applied Computer Science Concept
+lala
 
 # IV. Algorithms Used
+haha
 
 # V. Security Mechanisms
+gaga
 
-# VI. 
-# VII.
-# VIII.
-# IX.
-# X. 
+# VI. Development Process and Design Decisions
+enang
+
+# VII. Correctness and Efficiency
+galing
+
+# VIII. How to Run the Project
+nice
+
+# IX. Contributors
+namo
+
+# X. Acknowledgment
+namo
