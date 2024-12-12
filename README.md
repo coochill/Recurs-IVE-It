@@ -20,7 +20,7 @@
   - Merge Sort
   - Quick Sort (Random & Non-Random)
   - Catalan Numbers
-- **Interactive Controls**: Play, pause, and resume animations.
+- **Interactive Controls**: Play and pause animations.
 - **Secure Data Handling**: Input validation and encryption.
 
 This project provides a hands-on, engaging experience for students and developers to grasp recursion concepts with clarity.
