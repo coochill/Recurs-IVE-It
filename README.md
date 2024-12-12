@@ -75,21 +75,10 @@ This project emphasizes **recursion**, a fundamental programming concept where f
 
 # V. Security Mechanisms
 
-1. **Setup Development Environment**:
-   - Install tools like Visual Studio Code, Python, and Node.js.
-   - Clone the repository.
-
-2. **Backend Setup**:
-   - Install dependencies: `pip install -r requirements.txt`.
-   - Start the Flask server: `python app.py`.
-
-3. **Frontend Setup**:
-   - Navigate to the frontend directory.
-   - Install dependencies: `npm install`.
-   - Start the development server: `npm start`.
-
-4. **Access the Application**:
-   - Open your browser and go to `http://localhost:3000`.
+- **Input Validation**: Prevents invalid or malicious inputs.
+- **HTTPS**: Secures client-server communication.
+- **Encryption**: Ensures sensitive data protection using Firebase libraries.
+- **Error Handling**: Manages unexpected user actions.
 
 ---
 
@@ -137,6 +126,8 @@ The development of **Recurs-IVE It!** prioritized both correctness and efficienc
    - The visualizations were optimized to minimize rendering delays and avoid performance bottlenecks, making sure the animations remain smooth and responsive for users.
 
 ---
+
+## VIII. How to Run the Project
 
 To run **Recurs-IVE It!**, follow these steps:
 
