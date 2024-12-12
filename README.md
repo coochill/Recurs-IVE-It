@@ -134,13 +134,13 @@ To run **Recurs-IVE It!**, follow these steps:
 1. **Clone the Repository**:
    - Clone the repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/yourusername/recurs-ive-it.git
+     git clone https://github.com/coochill/Recurs-IVE-It.git
      ```
 
 2. **Install Dependencies**:
    - Navigate to the project directory and install the necessary dependencies for both the frontend and backend:
      ```bash
-     cd recurs-ive-it
+     cd Recurs-IVE-It
      npm install    # For frontend (D3.js visualization)
      ```
 
