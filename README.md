@@ -9,7 +9,7 @@
 ---
 
 
-# I. Project Overview: Recurs-IVE It
+# I. Project Overview
 
 **Recurs-IVE It!** is a web-based Recursive Algorithm Simulator designed to help users understand and visualize recursion. It offers:
 
