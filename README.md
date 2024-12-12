@@ -148,7 +148,7 @@ The development of **Recurs-IVE It!** prioritized both correctness and efficienc
 
 ---
 
-## VIII. How to Run the Project
+# VIII. How to Run the Project
 
 To run **Recurs-IVE It!**, follow these steps:
 
